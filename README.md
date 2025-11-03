@@ -27,3 +27,6 @@ Include analysis code (Jupyter notebooks or Python scripts) in a notebooks/ or s
 Add a requirements.txt or environment.yml describing dependencies.
 Document data schema and cleaning steps in cleaned_data so others can reproduce the pipeline.
 If you want, I can expand the README.md with a full project description and usage instructions or create a starter Jupyter notebook to reproduce the Excel analysis.
+
+this is my new contribution.
+today is 3rd sep
